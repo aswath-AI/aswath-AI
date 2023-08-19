@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswath-AI
 - 👀 I’m interested in Artificial Intelligence & Machine Learning 
-- 🌱 I’m currently a bachlor's in Applied Artificial Intelligence 
+- 🌱 I’m currently a bachlor's student in Applied Artificial Intelligence 
 - 💞️ I’m looking to collaborate on projects related to AI and ML
 - 📫 How to reach me LinkedIn or discord 
 
